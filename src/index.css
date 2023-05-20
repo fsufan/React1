@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.body{
+  color: #ccc;
+}
+
+.contenedor{
+  margin: 10px 30px;
+  
+}
+
+.footer{
+  margin: 10px 30px;
+  
+}
+
+.carta{
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 18rem;
+  
+}
+
+.carta-img{
+  width: 100%;
+}
